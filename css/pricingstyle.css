@@ -8,8 +8,8 @@
 	/**/	
 	*
 	{
-		margin: 1;
-		padding: 1;
+		margin: 1px;
+		padding: 1px;
 		border: 0;
 	}
 	
@@ -94,14 +94,13 @@
 	#navigation
 	{
 		width: 130px;
-		height: 80;
+		height: 80px;
 	}
 	
 	#websiteLogo
 	{
 		width: 100px;
 		height: 100px;
-		float: center;
 	}
 	
 	#websiteFooter
@@ -137,8 +136,8 @@
 	/**/	
 	*
 	{
-		margin: 1;
-		padding: 1;
+		margin: 1px;
+		padding: 1px;
 		border: 0;
 	}
 	
@@ -220,14 +219,13 @@
 	#navigation
 	{
 		width: 130px;
-		height: 80;
+		height: 80px;
 	}
 	
 	#websiteLogo
 	{
 		width: 100px;
 		height: 100px;
-		float: center;
 	}
 	
 	#websiteFooter
@@ -263,8 +261,8 @@
 	/**/	
 	*
 	{
-		margin: 1;
-		padding: 1;
+		margin: 1px;
+		padding: 1px;
 		border: 0;
 	}
 	

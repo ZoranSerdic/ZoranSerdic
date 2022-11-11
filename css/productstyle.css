@@ -130,7 +130,7 @@
 	#navigation
 	{
 		width: 130px;
-		height: 80;
+		height: 80px;
 	}
 	
 	#websiteLogo
@@ -293,14 +293,13 @@
 	#navigation
 	{
 		width: 130px;
-		height: 80;
+		height: 80px;
 	}
 	
 	#websiteLogo
 	{
 		width: 100px;
 		height: 100px;
-		float: center;
 	}
 	
 	#websiteFooter
@@ -488,7 +487,6 @@
 	{
 		width: 100px;
 		height: 100px;
-		float: center;
 	}
 	
 	#websiteFooter

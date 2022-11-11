@@ -1,5 +1,15 @@
 @media screen and (min-width: 930px)
 {
+	a:active
+	{
+		color: #0FF;
+	}
+	a:hover
+	{
+		color: #FFA;
+	}
+	
+	
 	.mobile , .tablet
 	{
 		display: none;
@@ -55,7 +65,7 @@
 	#navigation
 	{
 		width: 1020px;
-		height: 80;
+		height: 80px;
 	}
 	
 	#list1
@@ -198,7 +208,7 @@
 	#navigation
 	{
 		width: 800px;
-		height: 80;
+		height: 80px;
 	}	
 	
 	#list1
