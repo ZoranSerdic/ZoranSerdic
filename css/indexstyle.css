@@ -7,7 +7,6 @@
 	
 	.flexParent
 	{
-		background-color: #F0F;
 		display: flex;
 		flex-wrap: wrap;
 		width: 60%;
@@ -27,13 +26,17 @@
 
 	*
 	{
-		margin: 1;
-		padding: 1;
-		border: 0;
+		/*Copy this to all the other * */
+		margin-top: 15px;
+		letter-spacing: 1px;
+		line-height: 1.2em;
+		text-indent: 10px;
+		word-spacing: 4px;
 	}
 	
 	body
 	{
+		font-family: Arial, Helvetica, sans-serif;
 		margin: 3em;
 		background-color: #CCF;
 	}
@@ -73,9 +76,8 @@
 	
 	#websiteLogo
 	{
-		width: 100px;
-		height: 100px;
-		float: center;
+		width: 250px;
+		height: 250px;
 	}
 	
 	#video1
@@ -147,7 +149,6 @@
 	
 	.flexParent
 	{
-		background-color: #F0F;
 		display: flex;
 		flex-wrap: wrap;
 		width: 800px;
@@ -167,13 +168,17 @@
 
 	*
 	{
-		margin: 1;
-		padding: 1;
-		border: 0;
+		/*Copy this to all the other * */
+		margin-top: 15px;
+		letter-spacing: 1px;
+		line-height: 1.2em;
+		text-indent: 10px;
+		word-spacing: 4px;
 	}
 	
 	body
 	{
+		font-family: Arial, Helvetica, sans-serif;
 		margin: 3em;
 		background-color: #CCF;
 	}
@@ -212,9 +217,8 @@
 	
 	#websiteLogo
 	{
-		width: 100px;
-		height: 100px;
-		float: center;
+		width: 250px;
+		height: 250px;
 	}
 	
 	#video1
@@ -288,7 +292,6 @@
 	
 	.flexParent
 	{
-		background-color: #F0F;
 		display: flex;
 		flex-wrap: wrap;
 		width: 800px;
@@ -308,13 +311,17 @@
 
 	*
 	{
-		margin: 1;
-		padding: 1;
-		border: 0;
+		/*Copy this to all the other * */
+		margin-top: 15px;
+		letter-spacing: 1px;
+		line-height: 1.2em;
+		text-indent: 10px;
+		word-spacing: 4px;
 	}
 	
 	body
 	{
+		font-family: Arial, Helvetica, sans-serif;
 		margin: 3em;
 		background-color: #CCF;
 	}
