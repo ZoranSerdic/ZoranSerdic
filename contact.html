@@ -48,20 +48,47 @@
 				</h3>
 			</nav>
 		</header>
-		<aside id="asideArticles">	
-			<article>
-				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/honkbal.png" alt="&copy; Honkball"/> </a>
-					&copy; image
-			</article>
-			<article>
-				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/honkbal.png" alt="&copy; Honkball"/> </a>
-					&copy; image
-			</article>
-			<article>
-				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/honkbal.png" alt="&copy; Honkball"/> </a>
-					&copy; image
-			</article>			
-		</aside>
+		<article id="contactInformation">
+			
+				Contact information
+			
+				<p>telephone number: 06 123 456 789</p>
+				<p>email: realemail@mail</p>
+			
+		</article>
+		<form
+			action = "message.php"
+			method = "post"
+			>
+			<fieldset>
+				<legend>If you've got any questions please ask them</legend>
+				<ul>
+					<li>
+						visitor name: 
+						<input type="label" name="name"/>
+					</li>
+					<li>
+						visitor email:
+						<input type="email" name="email"/>
+					</li>
+					<li>
+						visitor message:
+						<input type="message" name="message"/>
+					</li>
+					<li>
+						<input type ="submit" value="Submit Message"/>
+					</li>
+				</ul>
+			</fieldset>
+		</form>
+		<aside>
+				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/Koa.jpg" alt="&copy; Koa Sports"/> </a>
+				<p>&copy; Image belongs to Koa Sports</p>
+				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/KoaInjury.jpg" alt="&copy; Koa Sports"/> </a>
+				<p>&copy; Image belongs to Koa Sports</p>
+				<a href="https://www.inholland.nl"> <img class="asideImages" src="images/KoaSize.png" alt="&copy; Koa Sports"/> </a>
+				<p>&copy; Image belongs to Koa Sports</p>
+			</aside>
 		<footer id="websiteFooter">
 			&copy; 2022 Zoran Serdic
 		</footer>
